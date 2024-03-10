@@ -1,3 +1,6 @@
 {
-  "settingsInheritedFrom": "samqdemocorp-mend/whitesource-config@main"
+  "settingsInheritedFrom": "samqdemocorp-mend/whitesource-config@main",
+  "scanSettings": {
+    "configMode": "LOCAL"
+  }
 }
